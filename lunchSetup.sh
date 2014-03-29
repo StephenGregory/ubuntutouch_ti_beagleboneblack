@@ -1,0 +1,2 @@
+add_lunch_combo cm_beagleboneblack-userdebug
+add_lunch_combo cm_beagleboneblack-eng
